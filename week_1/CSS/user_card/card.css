@@ -1,0 +1,13 @@
+.top-nav {
+    border: solid;
+    width: 750px;
+}
+
+.logo-area {
+    padding: 40px;
+    background-color: #17a2b8;
+}
+
+.details {
+    padding-left: 20px;
+}

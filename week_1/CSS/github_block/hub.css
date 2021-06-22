@@ -11,6 +11,7 @@ h1 {
     margin: 30px;
     width: 800px;
     text-align: center;
+    justify-content: space-between;
 }
 
 .pink {
@@ -21,6 +22,7 @@ h1 {
     margin: 30px;
     width: 800px;
     text-align: center;
+    justify-content: space-around;
 }
 
 .white {
@@ -31,4 +33,5 @@ h1 {
     margin: 30px;
     text-align: center;
     width: 800px;
+    justify-content: space-evenly;
 }
