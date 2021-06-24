@@ -1,0 +1,98 @@
+                    /* CSS reset */
+                    
+                    * {
+                        margin: 0;
+                        padding: 0;
+                        box-sizing: border-box;
+                    }
+                    /* Fixed width container class that will "auto-center" itself */
+                    
+                    .container {
+                        width: 1200px;
+                        margin: 0 auto;
+                    }
+                    
+                    .nav {
+                        display: flex;
+                        justify-content: flex-end;
+                        align-items: center;
+                        background-color: gray;
+                        height: 60px;
+                    }
+                    
+                    .btn {
+                        color: black;
+                        background-color: blue;
+                        box-shadow: black;
+                    }
+                    
+                    .nav {
+                        display: flex;
+                        justify-content: space-between;
+                    }
+                    
+                    .nav-title {
+                        color: white;
+                    }
+                    
+                    .nav-links {
+                        display: flex;
+                    }
+                    
+                    .nav-links>li {
+                        list-style-type: none;
+                    }
+                    
+                    .nav-links>li>a {
+                        color: white;
+                        text-decoration: none;
+                        margin: 10px;
+                    }
+                    
+                    .col {
+                        flex: 1;
+                        background-color: aqua;
+                        padding: 10px;
+                        margin: 10px;
+                    }
+                    
+                    .col-2 {
+                        background-color: aqua;
+                        flex: 2;
+                        padding: 10px;
+                        margin: 10px;
+                    }
+                    
+                    .col-3 {
+                        background-color: aqua;
+                        flex: 3;
+                        padding: 10px;
+                        margin: 10px;
+                    }
+                    
+                    .row {
+                        display: flex;
+                    }
+                    
+                    #submit {
+                        background-color: white;
+                        color: aqua;
+                        padding: 20px;
+                        margin: 20px;
+                        border-radius: 60px;
+                    }
+                    
+                    #sign {
+                        background-color: aqua;
+                        color: white;
+                        border-radius: 50%;
+                        padding: 20px;
+                        margin: 20;
+                    }
+                    
+                    #creat {
+                        background-color: blue;
+                        color: white;
+                        box-shadow: black;
+                        margin-top: 10px;
+                    }
