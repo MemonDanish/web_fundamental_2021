@@ -1,0 +1,24 @@
+    .col {
+        flex: 1;
+        background-color: aqua;
+        padding: 10px;
+        margin: 10px;
+    }
+    
+    .col-2 {
+        background-color: aqua;
+        flex: 2;
+        padding: 10px;
+        margin: 10px;
+    }
+    
+    .col-3 {
+        background-color: aqua;
+        flex: 3;
+        padding: 10px;
+        margin: 10px;
+    }
+    
+    .row {
+        display: flex;
+    }
