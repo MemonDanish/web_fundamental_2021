@@ -1,0 +1,118 @@
+        /* nav bar*/
+        
+        .nav {
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            background-color: black;
+            height: 60px;
+            margin-bottom: 20px;
+        }
+        
+        .btn {
+            color: black;
+            background-color: darkturquoise;
+            box-shadow: black;
+        }
+        
+        .nav {
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .nav-title {
+            color: white;
+        }
+        
+        .nav-links {
+            display: flex;
+        }
+        
+        .nav-links>li {
+            list-style-type: none;
+        }
+        
+        .nav-links>li>a {
+            color: white;
+            text-decoration: none;
+            margin: 10px;
+        }
+        /*left card user*/
+        
+        .whole {
+            display: inline-block;
+        }
+        
+        .top-nav {
+            width: 500px;
+            display: inline-block;
+            border: solid black;
+            height: max-content;
+        }
+        
+        .logo-area {
+            background-color: #17a2b8;
+            border: solid white;
+        }
+        
+        .details {
+            padding-left: 20px;
+        }
+        /* down left card*/
+        
+        .bb {
+            border: 1px solid black;
+            width: 500px;
+            margin-top: 10px;
+        }
+        
+        .ed {
+            background-color: black;
+            color: white;
+            border: 1px solid black;
+        }
+        
+        .low {
+            padding-left: 10px;
+        }
+        /* third card*/
+        
+        ul>li {
+            list-style-type: none;
+        }
+        
+        .le {
+            border: solid black;
+            width: 200px;
+            margin-bottom: 10px;
+        }
+        
+        .cc {
+            background-color: black;
+            color: white;
+            margin: auto;
+        }
+        /*forth box*/
+        
+        .t {
+            border: 1px solid black;
+            background-color: black;
+            color: white;
+        }
+        
+        .las {
+            border: 1px solid black;
+            width: 210px;
+            justify-content: flex-end
+        }
+        
+        .sec-box {
+            width: 200px;
+            display: inline-block;
+            justify-content: flex-end;
+            padding-left: 100px;
+        }
+        
+        .first-two {
+            display: inline-block;
+        }
